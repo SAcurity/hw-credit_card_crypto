@@ -2,9 +2,13 @@
 AllCops:
   TargetRubyVersion: 3.4
   NewCops: enable
+  SuggestExtensions: false
 
 Metrics/BlockLength:
   Enabled: true
   Exclude:
     - spec/**/*
     - Rakefile
+
+Naming/PredicateMethod:
+  Enabled: false
