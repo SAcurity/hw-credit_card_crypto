@@ -96,12 +96,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  json
-  minitest
-  minitest-rg
-  rbnacl
-  reek
-  rubocop
+  json (= 2.19.1)
+  minitest (= 6.0.2)
+  minitest-rg (= 5.4.0)
+  rbnacl (= 7.1.2)
+  reek (= 6.5.0)
+  rubocop (= 1.85.1)
 
 CHECKSUMS
   addressable (2.8.9) sha256=cc154fcbe689711808a43601dee7b980238ce54368d23e127421753e46895485
