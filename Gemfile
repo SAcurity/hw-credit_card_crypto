@@ -7,4 +7,5 @@ gem 'minitest'
 gem 'minitest-rg'
 gem 'rubocop'
 gem 'reek'
+gem 'rbnacl'
 # Add all the gems your code and tests use here!
